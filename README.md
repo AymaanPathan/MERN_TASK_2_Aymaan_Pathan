@@ -24,3 +24,20 @@
 
    ```bash
    git clone https://github.com/your-username/dynamic-form-react.git
+   ````
+
+
+
+2. Install dependencies:
+
+    ```bash
+    npm i vite
+    ```
+
+4. Run the project:
+    ```bash
+   npm run dev
+    ```
+
+
+
