@@ -40,4 +40,9 @@
     ```
 
 
+<h2>Tech Stack</h2>
+<li>Frontend: React.js</li>
+<li>Styling: Tailwind CSS</li>
+
+
 
