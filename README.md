@@ -1,15 +1,15 @@
 <h1>Dynamic Form</h1>
 
-<span>This is a simple dynamic form application built with React, Tailwind CSS, and React Hot Toast for notifications. The form allows users to add new input fields by entering a field name, label, and placeholder, and then dynamically creating new inputs based on their input.</span>
+<h6>This is a simple dynamic form application built with React, Tailwind CSS, and React Hot Toast for notifications. The form allows users to add new input fields by entering a field name, label, and placeholder, and then dynamically creating new inputs based on their input.</h6>
 
 ## Live Link
 https://mern-task-2-aymaan-pathan.vercel.app/
 
 ## Features
 
-- Dynamically add input fields with user-specified names, labels, and placeholders.
-- Notifications using `react-hot-toast` to inform the user when a new input is added successfully.
-- Styled using Tailwind CSS for quick and responsive design.
+- <h6>Dynamically add input fields with user-specified names, labels, and placeholders.</h6>
+- <h6>Notifications using `react-hot-toast` to inform the user when a new input is added successfully.</h6>
+- <h6>Styled using Tailwind CSS for quick and responsive design.</h6>
 
 
 ## Demo
