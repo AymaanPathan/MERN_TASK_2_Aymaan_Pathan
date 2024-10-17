@@ -36,7 +36,7 @@ function DynamicForm() {
     if (!inputName || !inputPlaceHolder || !inputLabel) {
       return toast.error("Please Provide All Input Information");
     }
-    if (inputTypes.includes(inputName) && inputName) {
+    if (inputTypes.includes(inputName)) {
       setInputs([
         ...inputs,
         { name: inputName, label: inputLabel, placeholder: inputPlaceHolder },
@@ -58,19 +58,24 @@ function DynamicForm() {
         <div className="grid grid-cols-1 gap-6 w-full max-w-md">
           <div>
             <label
-              htmlFor="text"
+              htmlFor="inputType"
               className="block text-sm font-medium text-gray-200"
             >
-              Enter Input Name
+              Select Input Type
             </label>
-            <input
+            <select
               onChange={(e) => setInputName(e.target.value)}
-              id="text"
-              type="text"
-              placeholder="Type Input Name Here..."
+              id="inputType"
               value={inputName}
               className="mt-1 px-4 py-2 border rounded-lg w-full outline-none focus:ring-2 focus:ring-white"
-            />
+            >
+              <option value="">Select Input Type...</option>
+              {inputTypes.map((type) => (
+                <option key={type} value={type}>
+                  {type}
+                </option>
+              ))}
+            </select>
           </div>
           <div>
             <label
