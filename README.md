@@ -28,7 +28,7 @@ https://mern-task-2-aymaan-pathan-mnwt.vercel.app/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/dynamic-form-react.git
+   git clone https://github.com/AymaanPathan/MERN_TASK_2_Aymaan_Pathan.git
    ````
 
 2. Change Directory
