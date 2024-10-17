@@ -13,7 +13,8 @@ https://mern-task-2-aymaan-pathan-mnwt.vercel.app/
 
 
 ## Demo
-<img width="959" alt="Screenshot 2024-10-14 235409" src="https://github.com/user-attachments/assets/85d09559-b437-4d2a-83eb-b58aa1317352">
+<img width="959" alt="Screenshot 2024-10-14 235409" src="https://github.com/user-attachments/assets/b95ffb16-9245-4bed-b22d-aaeb7ea66851">
+
 
 ## Getting Started
 
