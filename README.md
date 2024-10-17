@@ -3,7 +3,7 @@
 <h6>This is a simple dynamic form application built with React, Tailwind CSS, and React Hot Toast for notifications. The form allows users to add new input fields by entering a field name, label, and placeholder, and then dynamically creating new inputs based on their input.</h6>
 
 ## Live Link
-https://mern-task-2-aymaan-pathan.vercel.app/
+https://mern-task-2-aymaan-pathan-mnwt.vercel.app/
 
 ## Features
 
