@@ -31,9 +31,12 @@ https://mern-task-2-aymaan-pathan-mnwt.vercel.app/
    git clone https://github.com/your-username/dynamic-form-react.git
    ````
 
+2. Change Directory
+   ```bash
+   cd .\Dynamic_Form\
+   ````
 
-
-2. Install dependencies:
+3. Install dependencies:
 
     ```bash
     npm i vite
